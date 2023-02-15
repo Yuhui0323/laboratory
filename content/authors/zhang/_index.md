@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 宋
+title: 张兴寿
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: doctor
 
 # Organizations/Affiliations
 organizations:
