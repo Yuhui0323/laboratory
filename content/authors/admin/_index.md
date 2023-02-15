@@ -25,7 +25,7 @@ education:
   courses:
     - course: 力学博士
       institution: 北京大学
-      year: 2012
+      year: 2014
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
