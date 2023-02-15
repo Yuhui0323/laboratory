@@ -1,9 +1,11 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Published in npj：Interpretable machine learning for maximum corrosion depth and influence factor analysis
+date: 2022-2-02
+image:
+  focal_point: 'top'
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Song for Publishing their paper “Interpretable machine learning for maximum corrosion depth and influence factor analysis”.
 
 <!--more-->
 
