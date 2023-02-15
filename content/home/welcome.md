@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **材料表面改性  与腐蚀防护实验室** has been a center of excellence for metal materials corrosion research, teaching, and practice since its founding in 2015.
+The laboratory has been a center of excellence for metal materials corrosion research, teaching, and practice since its founding in 2015.
