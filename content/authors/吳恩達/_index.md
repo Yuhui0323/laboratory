@@ -4,13 +4,13 @@ title: 宋宇辉
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Songyuhui
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: master
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
