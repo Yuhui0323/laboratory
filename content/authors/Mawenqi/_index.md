@@ -22,21 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - 激光增材制造
-  - 镍基合金表面表面处理
   - 镍基碳化钨磨损性能
-  
-
-education:
-  courses:
-    - course: 材料与化工 博士
-      institution: 西南石油大学
-      year: 2022
-    - course: 材料与化工 硕士
-      institution: 西南石油大学
-      year: 2020
-    - course: 材料与化工 学士
-      institution: 西南石油大学
-      year: 2016
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +57,6 @@ user_groups:
   - 硕士研究生
 ---
 
-张兴寿博士于2016年考入西南石油大学新能源与材料学院学院
+
 
 
