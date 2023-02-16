@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - 硕士研究生
 ---
 
 张兴寿博士于2016年考入西南石油大学新能源与材料学院学院
