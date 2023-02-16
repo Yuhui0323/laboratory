@@ -39,6 +39,14 @@ content:
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
+     - title: 👋 第四个滑块
+      content: Take a look at what we're working on...
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: coders.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
