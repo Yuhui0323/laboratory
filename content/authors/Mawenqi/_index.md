@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: doctor
+role: master
 
 # Organizations/Affiliations
 organizations:
