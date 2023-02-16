@@ -27,3 +27,4 @@ design:
   show_role: true
   show_social: true
 ---
+团队现有教授1名，实验师1名，在读博士1名，在读硕士研究生9名，毕业硕士研究生4名
