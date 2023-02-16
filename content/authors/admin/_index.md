@@ -6,7 +6,7 @@ title: 王勤英
 superuser: true
 
 # Role/position
-role: Professor of material science
+role: 教授、硕导
 
 # Organizations/Affiliations
 organizations:
@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+研究方向:
+  - 激光熔覆层制备与性能研究
+  - 材料表面处理及防腐应用
+  - 金属材料腐蚀行为与机理研究
 
 education:
   courses:
