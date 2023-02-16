@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: '1099240092@qq.com.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
