@@ -23,15 +23,12 @@ interests:
 
 education:
   courses:
-    - course: 力学博士
+    - course: 力学 博士
       institution: 北京大学
       year: 2014
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 无机非金属材料工程 学士
+      institution: 中南大学
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
