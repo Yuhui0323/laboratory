@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The laboratory has been a center of excellence for metal materials corrosion research, teaching, and practice since its founding in 2015.
+**The laboratory has been a center of excellence for metal materials corrosion research, teaching, and practice since its founding in 2015.**
