@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: master
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
