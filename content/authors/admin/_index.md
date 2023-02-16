@@ -11,7 +11,7 @@ role: Professor of material science
 # Organizations/Affiliations
 organizations:
   - name: SWPU
-    url: ''
+    url: 'https://www.swpu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
