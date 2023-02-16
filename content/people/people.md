@@ -23,8 +23,7 @@ content:
     - Visitors
     - Alumni
     - 全职教师
-    - 博士研究生
-    - 硕士研究生
+    - 研究生
 design:
   show_interests: false
   show_role: true
