@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 马文祺
+title: 谭鑫雨
 
 # Username (this should match the folder name)
 authors:
-  - Mawenqi
+  - Tanxinyu
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - 激光增材制造
-  - 镍基碳化钨磨损性能
+  - 丝束电极
  
 
 # Social/Academic Networking
