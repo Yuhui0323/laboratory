@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - 激光增材制造
-  - 镍基碳化钨磨损性能
+  - 镍基碳化钨涂层
  
 
 # Social/Academic Networking
