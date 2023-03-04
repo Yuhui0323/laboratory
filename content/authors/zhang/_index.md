@@ -14,7 +14,7 @@ role: 博士
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: SWPU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
