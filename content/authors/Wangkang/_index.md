@@ -14,15 +14,15 @@ role: 硕士
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
+  - name: SWPU
+    url: 'https://www.swpu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - 激光增材制造
-  - 丝束电极
+  - 基于丝束电极的材料腐蚀研究
  
 
 # Social/Academic Networking
