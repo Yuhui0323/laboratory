@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 谭鑫雨
+title: 谭鑫宇
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - 激光增材制造
-  - 基于丝束电极的腐蚀研究
+  - 耐高温高压丝束电极
  
 
 # Social/Academic Networking
