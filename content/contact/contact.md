@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: 欢迎通过以下方式联系我们！！！
+widget: Contact
 
 # This file represents a page section.
 headless: true
@@ -53,5 +53,5 @@ content:
 design:
   columns: '1'
 ---
-
+欢迎通过以下方式联系我们！！！！
 
