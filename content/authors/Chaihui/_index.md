@@ -14,7 +14,7 @@ role: 硕士
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: SWPU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
