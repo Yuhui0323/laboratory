@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
- -材料腐蚀与防护
- -涂层制备与性能研究
- -钨电极加工与性能表征
+  - 材料腐蚀与防护
+  - 涂层制备与性能研究
+  - 钨电极加工与性能表征
 
 education:
   courses:
