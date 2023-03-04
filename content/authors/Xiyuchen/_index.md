@@ -2,28 +2,31 @@
 # Display name
 title: 西宇辰
 
-# Username (this should match the folder name)
-authors:
-  - Mawenqi
-
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 实验师
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
+  - name: SWPU
+    url: 'https://www.swpu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 激光增材制造
-  - 金属腐蚀防护
- 
+  - 金属材料腐蚀与防护
+
+education:
+  courses:
+    - course: 材料科学与工程 硕士
+      institution: 北京工业大学
+      year: 2014
+    - course: 材料化学 学士
+      institution: 中南大学
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +44,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,6 +53,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
