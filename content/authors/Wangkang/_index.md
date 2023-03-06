@@ -31,7 +31,7 @@ education:
       year: 2025
     - course: 材料成型及控制工程 学士
       institution: 常州工学院
-      year: 2018
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
