@@ -30,7 +30,7 @@ education:
   courses:
     - course: 材料与化工 博士
       institution: 西南石油大学
-      year: 2024
+      year: 2025
     - course: 材料科学与工程 硕士
       institution: 西南石油大学
       year: 2022
