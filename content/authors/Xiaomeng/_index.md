@@ -31,7 +31,7 @@ education:
       year: 2024
     - course: 汽车服务工程 学士
       institution: 绥化学院
-      year: 2017
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
