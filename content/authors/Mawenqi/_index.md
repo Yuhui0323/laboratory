@@ -31,7 +31,7 @@ education:
       year: 2025
     - course: 焊接技术与工程 学士
       institution: 西华大学
-      year: 2018
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
