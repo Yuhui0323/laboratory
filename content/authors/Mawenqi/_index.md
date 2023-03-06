@@ -26,15 +26,12 @@ interests:
  
 education:
   courses:  
-    - course: 材料与化工 硕士
+    - course: 材料工程 硕士
       institution: 西南石油大学
-      year: 2024
-    - course: 软件工程 学士
-      institution: 西安电子科技大学
-      year: 2021
-    - course: 材料与化工 学士
-      institution: 西南石油大学
-      year: 2019
+      year: 2025
+    - course: 焊接技术与工程 学士
+      institution: 西华大学
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
