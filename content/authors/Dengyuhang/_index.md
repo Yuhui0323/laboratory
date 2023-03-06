@@ -23,6 +23,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - 激光增材制造
   - 镍基碳化钨涂层
+
+education:
+  courses:  
+    - course: 材料与化工 硕士
+      institution: 西南石油大学
+      year: 2024
+    - course: 软件工程 学士
+      institution: 西安电子科技大学
+      year: 2021
+    - course: 材料与化工 学士
+      institution: 西南石油大学
+      year: 2019
  
 
 # Social/Academic Networking
